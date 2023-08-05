@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 ### Social 👥
 
 Let's connect, feel free to follow me on: <br/>
-✅ Twitter: https://twitter.com/dassiorleando <br/>
-✅ LinkedIn: https://www.linkedin.com/in/dassi-orleando-257b04ab/ <br/>
+✅ <a href="https://twitter.com/dassiorleando">Twitter</a> <br/>
+✅ <a href="https://www.linkedin.com/in/dassi-orleando-257b04ab/">LinkedIn</a><br/>
+✅ <a href="https://discord.numericaideas.com/">Discord</a><br/>
