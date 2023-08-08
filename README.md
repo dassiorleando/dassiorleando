@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Recent Articles on NumericaIdeas     
 <!-- BLOG-POST-LIST:START -->
-- [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs)
-- [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux)
-- [Dockerize Spring Boot and MySQL with Docker Compose](https://blog.numericaideas.com/docker-compose-springboot-mysql)
-- [Scalability Types in Software Architecture](https://blog.numericaideas.com/scalability-types)
-- [Lift And Shift Cloud Migration Manual for AWS ElasticBeanstalk](https://blog.numericaideas.com/lift-and-shift-cloud-migration-manual-aws-elasticbeanstalk)
+- [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs/)
+- [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux/)
+- [Dockerize Spring Boot and MySQL with Docker Compose](https://blog.numericaideas.com/docker-compose-springboot-mysql/)
+- [Scalability Types in Software Architecture](https://blog.numericaideas.com/scalability-types/)
+- [Periodic Table of DevOps Tools in 2023](https://blog.numericaideas.com/devops-periodic-table/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>
