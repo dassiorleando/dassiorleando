@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@numericaideas"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Spring Boot Deployment Using AWS ElasticBeanstalk - Scalability #2](https://www.youtube.com/watch?v=KHOxmHL5USI)
-- [Spring Boot Deployment Using AWS ElasticBeanstalk - Lift And Shift Cloud Migration #1](https://www.youtube.com/watch?v=tWQFavEJQ7c)
+- [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 2 | Scalability](https://www.youtube.com/watch?v=KHOxmHL5USI)
+- [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 1 | Deployment](https://www.youtube.com/watch?v=tWQFavEJQ7c)
 - [Important Cloud Computing Concepts in 8 minutes](https://www.youtube.com/watch?v=0II0ikOZEYE)
+- [Something new to be released soon!](https://www.youtube.com/watch?v=iTpM3Ue7qR8)
 - [Introduction to Terraform for Infrastructure Provisioning](https://www.youtube.com/watch?v=tJ6L1332WU4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
