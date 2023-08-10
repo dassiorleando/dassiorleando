@@ -2,7 +2,6 @@
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
 ### ⭐ Topics Of Interest
-
 ➡️ Software Development <br/>
 ➡️ Application and Solutions Architecture <br/>
 ➡️ Cloud Computing <br/>
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/@numericaideas"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Recent Videos on YouTube      
+## <a href="https://www.youtube.com/@numericaideas"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 2 | Scalability](https://www.youtube.com/watch?v=KHOxmHL5USI)
@@ -38,19 +37,27 @@ Here are some ideas to get you started:
  
 </td><td valign="top" width="50%">
 
-## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Recent Articles on NumericaIdeas     
-<!-- BLOG-POST-LIST:START -->
+## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+<!-- TECH-POSTS-LIST:START -->
 - [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs/)
 - [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux/)
 - [Dockerize Spring Boot and MySQL with Docker Compose](https://blog.numericaideas.com/docker-compose-springboot-mysql/)
 - [Scalability Types in Software Architecture](https://blog.numericaideas.com/scalability-types/)
 - [Periodic Table of DevOps Tools in 2023](https://blog.numericaideas.com/devops-periodic-table/)
-<!-- BLOG-POST-LIST:END -->
+<!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
 
-### Social 👥
+**More tech content are available at [NumericaIdeas](https://github.com/numerica-ideas) and on [my website](https://dassiorleando.xyz/).**
 
+### 🔥 My Recent Thoughts
+<!-- MY-THOUGHTS-LIST:START -->
+- [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes)
+<!-- MY-THOUGHTS-LIST:END -->
+
+Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ;)
+
+### Social 👥
 Let's connect, feel free to follow me on: <br/>
 ✅ <a href="https://twitter.com/dassiorleando">Twitter</a> <br/>
 ✅ <a href="https://www.linkedin.com/in/dassi-orleando-257b04ab/">LinkedIn</a><br/>

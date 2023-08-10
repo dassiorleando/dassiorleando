@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest tech and non-tech thoughts post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 12 * * *' # Runs every day at noon
@@ -8,13 +8,13 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with my latest blog posts
+    name: Update this repo's README with my latest thoughts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in numericaideas.com posts
+      - name: Pull in thoughts.dassiorleando.xyz archive
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "TECH-POSTS-LIST"
-          feed_list: "http://blog.numericaideas.com/feed/dassiorleando.xml"
+          comment_tag_name: "MY-THOUGHTS-LIST"
+          feed_list: "https://thoughts.dassiorleando.xyz/feed.xml"
