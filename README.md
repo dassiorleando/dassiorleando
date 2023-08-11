@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
-- [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes)
+- [Succeed in Tech](https://thoughts.dassiorleando.xyz/succeed-in-tech/)
+- [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes/)
 <!-- MY-THOUGHTS-LIST:END -->
 
 Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ✅
