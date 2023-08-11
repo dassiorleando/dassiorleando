@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-**More tech content are available at [NumericaIdeas](https://github.com/numerica-ideas) and on [my website](https://dassiorleando.xyz/).**
+**More tech content is available on [NumericaIdeas's Tech Blog](https://github.com/numerica-ideas) and on [My Website](https://dassiorleando.xyz/).**
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
 - [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes)
 <!-- MY-THOUGHTS-LIST:END -->
 
-Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ;)
+Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ✅
 
 ### 👥 Connect with me
 Feel free to follow me on: <br/>
