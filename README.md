@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ;)
 
-### Social 👥
-Let's connect, feel free to follow me on: <br/>
-✅ <a href="https://twitter.com/dassiorleando">Twitter</a> <br/>
-✅ <a href="https://www.linkedin.com/in/dassi-orleando-257b04ab/">LinkedIn</a><br/>
-✅ <a href="https://discord.numericaideas.com/">Discord</a><br/>
+### 👥 Connect with me
+Feel free to follow me on: <br/>
+<a href="https://twitter.com/dassiorleando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dassi-orleando-257b04ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4004167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
