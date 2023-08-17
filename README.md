@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
+- [English for Tech Content Creators](https://thoughts.dassiorleando.xyz/english-tech-content-creators/)
 - [Succeed in Tech](https://thoughts.dassiorleando.xyz/succeed-in-tech/)
 - [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes/)
 <!-- MY-THOUGHTS-LIST:END -->
