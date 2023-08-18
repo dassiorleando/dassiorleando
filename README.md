@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
+- [Continuous Deployment of Spring Boot to AWS Elastic Beanstalk via GitHub Actions: A Step-by-Step Guide](https://blog.numericaideas.com/cd-springboot-aws-eb-github-actions/)
 - [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs/)
 - [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux/)
 - [Dockerize Spring Boot and MySQL with Docker Compose](https://blog.numericaideas.com/docker-compose-springboot-mysql/)
 - [Scalability Types in Software Architecture](https://blog.numericaideas.com/scalability-types/)
-- [Periodic Table of DevOps Tools in 2023](https://blog.numericaideas.com/devops-periodic-table/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
