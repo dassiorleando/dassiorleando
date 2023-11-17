@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
+During the past few years, I have coached more than 100 Software Developers so that they could better start or boost their careers in Tech.
+
 ### ⭐ Topics Of Interest
 ➡️ Software Development <br/>
 ➡️ Application and Solutions Architecture <br/>
