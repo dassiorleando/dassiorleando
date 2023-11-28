@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in thoughts.dassiorleando.xyz archive
+      - name: Pull my thoughts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "MY-THOUGHTS-LIST"

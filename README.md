@@ -1,7 +1,9 @@
+<a href="https://numericaideas.com" target="blank"><img align="center" src="my-github-banner.png" alt="dassiorleando" /></a>
+
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
-During the past few years, I have coached more than 100 Software Developers so that they could better start or boost their careers in Tech.
+During the past few years, I have coached more than 100 Software Developers so that they could better start or boost their careers in Tech. Click [here](https://numericaideas.com/services/tech-mentorship/) to know more about my **Tech Mentorship and Coaching** program.
 
 ### ⭐ Topics Of Interest
 ➡️ Software Development <br/>
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
  
 </td><td valign="top" width="50%">
 
-## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
 - [Built-in .env Files Support Starting from Node.js v20.6.0](https://blog.numericaideas.com/nodejs-env-files-support/)
 - [Introduction to Terraform](https://blog.numericaideas.com/introduction-to-terraform/)
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-**More tech content is available on [NumericaIdeas's Tech Blog](https://github.com/numerica-ideas) and on [My Website](https://dassiorleando.xyz/).**
+**More tech content is available on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog) and on [My Website](https://dassiorleando.xyz/).**
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
