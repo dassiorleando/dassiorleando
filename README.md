@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 ## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
+- [Choosing the Right Specialization Timing for Your Tech Career: Sooner or Later?](https://numericaideas.com/blog/career-specialization-timing/)
 - [How I Became a Software Engineer with No University Degree or Experience](https://numericaideas.com/blog/software-engineer-no-university-degree-or-experience/)
 - [Built-in .env Files Support Starting from Node.js v20.6.0](https://numericaideas.com/blog/nodejs-env-files-support/)
 - [Introduction to Terraform](https://numericaideas.com/blog/introduction-to-terraform/)
 - [Continuous Deployment of Spring Boot to AWS Elastic Beanstalk via GitHub Actions: A Step-by-Step Guide](https://numericaideas.com/blog/cd-springboot-aws-eb-github-actions/)
-- [Docker Init: Quickly Dockerizing NodeJS Application](https://numericaideas.com/blog/quickly-dockerizing-nodejs/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
