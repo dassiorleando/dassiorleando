@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@numericaideas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Types of Cloud Computing](https://www.youtube.com/watch?v=jMs1UjOASsA)
 - [An Introduction to Strapi Headless CMS](https://www.youtube.com/watch?v=84bRnaJ9QWQ)
 - [Tech Career: Should You Specialize Sooner or Later?](https://www.youtube.com/watch?v=tADeuqlCylI)
 - [The 5-Step Tech Jobs Application Framework to Apply in 2024](https://www.youtube.com/watch?v=jU_8xL9ywfA)
 - [Migration: SEO and 301 Redirects](https://www.youtube.com/watch?v=YonptTEEqWk)
-- [Migration: Speed VS Design and Time Saving](https://www.youtube.com/watch?v=zV_ocd33-ZQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
