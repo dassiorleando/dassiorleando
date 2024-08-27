@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 ## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
+- [Next.js vs Angular: Choosing the Best Framework for Your Front-End Project](https://numericaideas.com/blog/next-js-vs-angular-choosing-the-best-framework-for-your-front-end-project/)
 - [What is Salesforce?](https://numericaideas.com/blog/what-is-salesforce/)
 - [Migrating Resources to AWS CDK Using “CDK Migrate” Command](https://numericaideas.com/blog/aws-cdk-migrate/)
 - [Numerica Ideas’s Tech Writers Leaderboard](https://numericaideas.com/blog/tech-writers-leaderboard/)
 - [Dockerize NodeJS and MySQL with Docker Compose](https://numericaideas.com/blog/docker-compose-nodejs-mysql/)
-- [Understanding the Difference Between Observable and Subject in RxJS](https://numericaideas.com/blog/difference-between-observable-and-subject-in-rxjs/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
