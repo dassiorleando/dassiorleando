@@ -1,16 +1,15 @@
-<a href="https://numericaideas.com" target="blank"><img align="center" src="my-github-banner.png" alt="dassiorleando" /></a>
+<a href="https://dassiorleando.xyz" target="blank"><img align="center" src="my-github-banner.png" alt="dassiorleando" /></a>
 
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
-During the past few years, I have coached more than 100 Software Developers so that they could better start or boost their careers in Tech. Click [here](https://numericaideas.com/services/tech-mentorship/) to know more about my **Tech Mentorship and Coaching** program.
-
 ### ⭐ Topics Of Interest
-➡️ Software Development <br/>
-➡️ Application and Solutions Architecture <br/>
-➡️ Cloud Computing <br/>
-➡️ DevOps <br/>
-➡️ Community Building <br/>
+➡️ Integration Architecture <br/>
+➡️ Apache Airflow <br/>
+➡️ Apache Camel <br/>
+➡️ Salesforce <br/>
+➡️ Odoo ERP <br/>
+➡️ AWS <br/>
 
 <!--
 **dassiorleando/dassiorleando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-**More tech content is available on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog) and on [My Website](https://dassiorleando.xyz/).**
+**More tech content is available on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog) and on [My Website](https://dassiorleando.xyz/blog/).**
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
@@ -65,6 +64,6 @@ Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz
 
 ### 👥 Connect with me
 Feel free to follow me on: <br/>
-<a href="https://twitter.com/dassiorleando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dassi-orleando-257b04ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4004167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://twitter.com/dassiorleando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dassiorleando" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dassi-orleando-257b04ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dassiorleando" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4004167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dassiorleando" height="30" width="40" /></a>
