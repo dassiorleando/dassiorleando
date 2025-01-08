@@ -32,22 +32,22 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@numericaideas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Unlocking Career Opportunities, some key elements to successfully start your tech career!](https://www.youtube.com/watch?v=bcY7Qth-s9w)
-- [Responsive Grid Layout - HTML &amp; CSS &lpar;FlexBox&rpar;](https://www.youtube.com/watch?v=ocGuOcyi0eg)
-- [Responsive Grid Layout using FlexBox, HTML &amp; CSS](https://www.youtube.com/watch?v=IfFZK8nc-0c)
-- [How I Became a Software Engineer with No University Degree or Experience](https://www.youtube.com/watch?v=UVF_31PmeEQ)
-- [What is NumericaIdeas?](https://www.youtube.com/watch?v=6bdCyAZCUTg)
+- [Ngrok Tunneling: Open your Localhost to The World](https://www.youtube.com/watch?v=ZuRjFGtIrJk)
+- [Types of Cloud Computing](https://www.youtube.com/watch?v=jMs1UjOASsA)
+- [An Introduction to Strapi Headless CMS](https://www.youtube.com/watch?v=84bRnaJ9QWQ)
+- [Tech Career: Should You Specialize Sooner or Later?](https://www.youtube.com/watch?v=tADeuqlCylI)
+- [The 5-Step Tech Jobs Application Framework to Apply in 2024](https://www.youtube.com/watch?v=jU_8xL9ywfA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
 
 ## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
-- [How I Published my First NPM Package in 1h](https://numericaideas.com/blog/how-i-published-my-first-npm-package-in-1h/)
-- [Choosing the Right Specialization Timing for Your Tech Career: Sooner or Later?](https://numericaideas.com/blog/career-specialization-timing/)
-- [How I Became a Software Engineer with No University Degree or Experience](https://numericaideas.com/blog/software-engineer-no-university-degree-or-experience/)
-- [Built-in .env Files Support Starting from Node.js v20.6.0](https://numericaideas.com/blog/nodejs-env-files-support/)
-- [Introduction to Terraform](https://numericaideas.com/blog/introduction-to-terraform/)
+- [Next.js vs Angular: Choosing the Best Framework for Your Front-End Project](https://numericaideas.com/blog/next-js-vs-angular-choosing-the-best-framework-for-your-front-end-project/)
+- [What is Salesforce?](https://numericaideas.com/blog/what-is-salesforce/)
+- [Migrating Resources to AWS CDK Using “CDK Migrate” Command](https://numericaideas.com/blog/aws-cdk-migrate/)
+- [Numerica Ideas’s Tech Writers Leaderboard](https://numericaideas.com/blog/tech-writers-leaderboard/)
+- [Dockerize NodeJS and MySQL with Docker Compose](https://numericaideas.com/blog/docker-compose-nodejs-mysql/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
