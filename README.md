@@ -3,8 +3,11 @@
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
+### What I do?
+I connect Systems to power Digitalization.
+
 ### ⭐ Topics Of Interest
-➡️ Integration Architecture <br/>
+➡️ Integration Specialist <br/>
 ➡️ Apache Airflow <br/>
 ➡️ Apache Camel <br/>
 ➡️ Salesforce <br/>
