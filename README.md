@@ -1,4 +1,4 @@
-<a href="https://dassiorleando.xyz" target="blank"><img align="center" src="my-github-banner.png" alt="Orleando Dassi Banner" /></a>
+<a href="https://dassiorleando.xyz" target="blank"><img align="center" src="my-banner.png" alt="Orleando Dassi GitHub Banner" /></a>
 
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
