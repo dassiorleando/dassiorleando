@@ -7,12 +7,11 @@ I'm a Solutions Architect who is constantly learning to better himself while imp
 I connect Systems to power Digitalization.
 
 ### ⭐ Topics Of Interest
-➡️ Integration Specialist <br/>
+➡️ Enterprise Integration Patterns <br/>
 ➡️ Apache Airflow <br/>
 ➡️ Apache Camel <br/>
 ➡️ Salesforce <br/>
-➡️ Odoo ERP <br/>
-➡️ AWS <br/>
+➡️ Cloud <br/>
 
 <!--
 **dassiorleando/dassiorleando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
