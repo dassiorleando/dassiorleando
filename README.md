@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 ## <a href="https://dassiorleando.com/blog/"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="Orleando Dassi's blog" alt="Orleando Dassi's blog" width="25"/></a>   Latest Articles
 <!-- TECH-POSTS-LIST:START -->
-- [Next.js vs Angular: Choosing the Best Framework for Your Front-End Project](https://numericaideas.com/blog/next-js-vs-angular-choosing-the-best-framework-for-your-front-end-project/)
-- [What is Salesforce?](https://numericaideas.com/blog/what-is-salesforce/)
-- [Migrating Resources to AWS CDK Using “CDK Migrate” Command](https://numericaideas.com/blog/aws-cdk-migrate/)
-- [Numerica Ideas’s Tech Writers Leaderboard](https://numericaideas.com/blog/tech-writers-leaderboard/)
-- [Dockerize NodeJS and MySQL with Docker Compose](https://numericaideas.com/blog/docker-compose-nodejs-mysql/)
+- [Salesforce OAuth 2.0 Web Server Flow in NodeJS](https://dassiorleando.com/salesforce-oauth2-web-server-flow/)
+- [Next.js vs Angular: Choosing the Best Framework for Your Front-End Project](https://dassiorleando.com/next-js-vs-angular-choosing-the-best-framework-for-your-front-end-project/)
+- [Migrating Resources to AWS CDK Using “CDK Migrate” Command](https://dassiorleando.com/aws-cdk-migrate/)
+- [Numerica Ideas’s Tech Writers Leaderboard](https://dassiorleando.com/tech-writers-leaderboard/)
+- [Dockerize NodeJS and MySQL with Docker Compose](https://dassiorleando.com/docker-compose-nodejs-mysql/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
