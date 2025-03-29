@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Ngrok Tunneling: Open your Localhost to The World](https://www.youtube.com/watch?v=ZuRjFGtIrJk)
-- [Types of Cloud Computing](https://www.youtube.com/watch?v=jMs1UjOASsA)
-- [An Introduction to Strapi Headless CMS](https://www.youtube.com/watch?v=84bRnaJ9QWQ)
-- [Tech Career: Should You Specialize Sooner or Later?](https://www.youtube.com/watch?v=tADeuqlCylI)
-- [The 5-Step Tech Jobs Application Framework to Apply in 2024](https://www.youtube.com/watch?v=jU_8xL9ywfA)
+- [Rester compétitif : transformation numérique](https://www.youtube.com/watch?v=i_CQVCcNU0w)
+- [Netflix : Transformation Numérique](https://www.youtube.com/watch?v=xFdC2d3pmLU)
+- [Les bénéfices de la transformation numérique](https://www.youtube.com/watch?v=aUrqhFW5hrE)
+- [Pourquoi la transformation numérique est incontournable en 2025 ?](https://www.youtube.com/watch?v=WzUHkFfN1y4)
+- [Ma chaîne YouTube : Ce Que Vous Allez Apprendre et Pourquoi !](https://www.youtube.com/watch?v=SaBONIbfXqo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
