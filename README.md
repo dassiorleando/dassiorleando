@@ -1,19 +1,22 @@
-<a href="https://dassiorleando.xyz" target="blank"><img align="center" src="my-banner.png" alt="Orléando Dassi's GitHub Banner" /></a>
+<a href="https://dassiorleando.xyz" target="blank"><img align="center" src="my-github-banner.png" alt="Orléando Dassi's Banner" /></a>
 
 ### Hi there 👋
 I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
 ### What I do?
-I connect Systems to power Digitalization.
+Connecting Systems to Drive Innovation ⚡️
 
 ### ⭐ Topics Of Interest
 ➡️ Digital Transformation <br/>
-➡️ Automation <br/>
 ➡️ Enterprise Integration Patterns <br/>
+➡️ Solutions Architecture <br/>
+➡️ System Integration <br/>
+➡️ Programming <br/>
+➡️ Automation <br/>
 ➡️ Apache Airflow <br/>
 ➡️ Apache Camel <br/>
 ➡️ Salesforce <br/>
-➡️ AWS <br/>
+➡️ Cloud <br/>
 
 <!--
 **dassiorleando/dassiorleando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/@numericaideas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
+## <a href="https://www.youtube.com/@numericaideas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Ngrok Tunneling: Open your Localhost to The World](https://www.youtube.com/watch?v=ZuRjFGtIrJk)
@@ -44,7 +47,7 @@ Here are some ideas to get you started:
  
 </td><td valign="top" width="50%">
 
-## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+## <a href="https://numericaideas.com/blog/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="Orleando Dassi's blog" alt="Orleando Dassi's blog" width="25"/></a>   Latest Articles
 <!-- TECH-POSTS-LIST:START -->
 - [Next.js vs Angular: Choosing the Best Framework for Your Front-End Project](https://numericaideas.com/blog/next-js-vs-angular-choosing-the-best-framework-for-your-front-end-project/)
 - [What is Salesforce?](https://numericaideas.com/blog/what-is-salesforce/)
@@ -55,7 +58,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-**More tech content is available on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog) and on [My Website](https://dassiorleando.xyz/blog/).**
+**More tech content is available on [My Website](https://dassiorleando.xyz/blog/) and on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog).**
 
 ### 🔥 My Recent Thoughts
 <!-- MY-THOUGHTS-LIST:START -->
