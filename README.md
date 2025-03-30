@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [3 Vérités sur la Transformation Numérique](https://www.youtube.com/watch?v=ivm2G1bXVHY)
 - [Transformation Numérique : ces erreurs coûtent des millions !](https://www.youtube.com/watch?v=y9ye2imGO0Q)
 - [Rester compétitif : transformation numérique](https://www.youtube.com/watch?v=i_CQVCcNU0w)
 - [Netflix : Transformation Numérique](https://www.youtube.com/watch?v=xFdC2d3pmLU)
 - [Les bénéfices de la transformation numérique](https://www.youtube.com/watch?v=aUrqhFW5hrE)
-- [Pourquoi la transformation numérique est incontournable en 2025 ?](https://www.youtube.com/watch?v=WzUHkFfN1y4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
