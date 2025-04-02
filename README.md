@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 - [Numérique : comment transformer sans faire mal !](https://www.youtube.com/watch?v=7plJ0qnVZrk)
 - [Sans culture digitale, la technologie ne sert à rien !](https://www.youtube.com/watch?v=pNmIM-tokXk)
 - [3 Vérités sur la Transformation Numérique](https://www.youtube.com/watch?v=ivm2G1bXVHY)
+- [Digitaliser un mauvais processus, c’est accélérer le chaos](https://www.youtube.com/watch?v=i7QQ9x5RXxw)
 - [Transformation Numérique : ces erreurs coûtent des millions !](https://www.youtube.com/watch?v=y9ye2imGO0Q)
-- [Rester compétitif : transformation numérique](https://www.youtube.com/watch?v=i_CQVCcNU0w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
