@@ -1,10 +1,10 @@
-<a href="https://dassiorleando.com" target="blank"><img align="center" src="my-github-banner.png" alt="Orléando Dassi's Banner" /></a>
+<a href="https://dassiorleando.com" target="blank"><img align="center" src="my-banner.png" alt="Orléando Dassi's Banner" /></a>
 
 ### Hi there 👋
-I'm a Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
+I'm an entrepreneur and Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
 ### What I do?
-Connecting Systems to Drive Innovation ⚡️
+Connecting Systems to Drive Innovation : https://www.automathing.ca
 
 ### ⭐ Topics Of Interest
 ➡️ Digital Transformation <br/>
@@ -13,9 +13,7 @@ Connecting Systems to Drive Innovation ⚡️
 ➡️ System Integration <br/>
 ➡️ Programming <br/>
 ➡️ Automation <br/>
-➡️ Apache Airflow <br/>
-➡️ Apache Camel <br/>
-➡️ Salesforce <br/>
+➡️ CRM / ERP <br/>
 ➡️ Cloud <br/>
 
 <!--
