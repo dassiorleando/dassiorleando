@@ -9,9 +9,9 @@ Software Development | Platform Integration | Process Automation : https://www.a
 ## Products
 Our first SaaS product is live, **Simplify Data Accessibility for Everyone** : https://www.transformz.ca
 
-**TransformZ** empowers you to ask questions to your data with **AI**, open it in **Excel**, or share it via **auto-generated APIs**; zero coding needed.
+[TransformZ](https://www.transformz.ca) empowers you to ask questions to your data with **AI**, open it in **Excel**, or share it via **auto-generated APIs**; zero coding needed.
 
-<a href="https://www.transformz.ca/" target="blank"><img align="center" src="TransformZ-Banner.png" alt="Orléando Dassi's Banner" /></a>
+<a href="https://www.transformz.ca/" target="blank"><img align="center" src="TransformZ-Banner.png" alt="TransformZ: Simplify Data Accessibility for Everyone" /></a>
 
 
 ### ⭐ Topics Of Interest
