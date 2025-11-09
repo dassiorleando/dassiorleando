@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [La transformation numérique est avant tout une transformation business](https://www.youtube.com/shorts/VuIJnzJ5zYY)
-- [Numérique : comment transformer sans faire mal !](https://www.youtube.com/shorts/7plJ0qnVZrk)
-- [Sans culture digitale, la technologie ne sert à rien !](https://www.youtube.com/shorts/pNmIM-tokXk)
-- [3 Vérités sur la Transformation Numérique](https://www.youtube.com/shorts/ivm2G1bXVHY)
-- [Digitaliser un mauvais processus, c’est accélérer le chaos](https://www.youtube.com/shorts/i7QQ9x5RXxw)
+- [Un petit recap vidéo de la troisième journée du #MTLConnecte](https://www.youtube.com/shorts/O1MNWNvRPtg)
+- [Une deuxième journée avec autant de contenu que la première au #MTLConnecte](https://www.youtube.com/shorts/pYYkZn82ZKQ)
+- [La première journée de l’évènement MTLConnecte](https://www.youtube.com/shorts/8kVwEbMRyZs)
+- [Simplifier l&#39;Accès aux Données : La Vision de TransformZ](https://www.youtube.com/watch?v=hTDQepHrCz8)
+- [TransformZ v2 : Accessibilité des Données par IA, Excel et API](https://www.youtube.com/watch?v=j_eRmDp1ByY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
