@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Client satisfied: new tech projet completed with 5-stars review ⭐️](https://www.youtube.com/shorts/EE0zc6ac2CY)
+- [Client satisfait : nouveau projet tech terminé avec 5 étoiles ⭐️](https://www.youtube.com/shorts/Ggif9Mcvt5w)
 - [MTLConnecte 2025 : 10 Leçons d&#39;un Ambassadeur Numérique du Québec](https://www.youtube.com/watch?v=aDouCRhwTUk)
 - [Un petit recap vidéo de la troisième journée du #MTLConnecte](https://www.youtube.com/shorts/O1MNWNvRPtg)
 - [Une deuxième journée avec autant de contenu que la première au #MTLConnecte](https://www.youtube.com/shorts/pYYkZn82ZKQ)
-- [La première journée de l’évènement MTLConnecte](https://www.youtube.com/shorts/8kVwEbMRyZs)
-- [Simplifier l&#39;Accès aux Données : La Vision de TransformZ](https://www.youtube.com/watch?v=hTDQepHrCz8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
