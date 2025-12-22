@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [J’ai démissionner de mon emploi à haut salaire pour créer une entreprise avec 0 clients de départ](https://www.youtube.com/shorts/lNipUyWSUnI)
+- [J’ai démissionné de mon emploi à haut salaire pour créer une entreprise avec 0 clients de départ](https://www.youtube.com/shorts/lNipUyWSUnI)
 - [Trouve une coiffeuse Afro au Québec - StyleAfro](https://www.youtube.com/shorts/t8eK9ORj-ik)
 - [Client satisfied: new tech projet completed with 5-stars review ⭐️](https://www.youtube.com/shorts/EE0zc6ac2CY)
 - [Client satisfait : nouveau projet tech terminé avec 5 étoiles ⭐️](https://www.youtube.com/shorts/Ggif9Mcvt5w)
