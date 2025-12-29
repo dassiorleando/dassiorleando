@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Un petit recap vidéo de la troisième journée du #MTLConnecte](https://www.youtube.com/shorts/O1MNWNvRPtg)
-- [Une deuxième journée avec autant de contenu que la première au #MTLConnecte](https://www.youtube.com/shorts/pYYkZn82ZKQ)
-- [La première journée de l’évènement MTLConnecte](https://www.youtube.com/shorts/8kVwEbMRyZs)
-- [Simplifier l&#39;Accès aux Données : La Vision de TransformZ](https://www.youtube.com/watch?v=hTDQepHrCz8)
-- [TransformZ v2 : Accessibilité des Données par IA, Excel et API](https://www.youtube.com/watch?v=j_eRmDp1ByY)
+- [Entreprendre : bénéfices élevés mais c’est risqué !](https://www.youtube.com/shorts/uLGuFFoJvLg)
+- [Le vrai problème des entrepreneurs tech, ce n’est pas la motivation, mais la vente !](https://www.youtube.com/shorts/oT7ZMHbH9fM)
+- [J’ai démissionné de mon emploi à haut salaire pour créer une entreprise avec 0 clients de départ](https://www.youtube.com/shorts/lNipUyWSUnI)
+- [Trouve une coiffeuse Afro au Québec - StyleAfro](https://www.youtube.com/shorts/t8eK9ORj-ik)
+- [Client satisfied: new tech projet completed with 5-stars review ⭐️](https://www.youtube.com/shorts/EE0zc6ac2CY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
