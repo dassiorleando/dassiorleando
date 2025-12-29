@@ -1,10 +1,12 @@
-<a href="https://www.automathing.ca/" target="blank"><img align="center" src="orleando-github-banner.png" alt="Orléando Dassi's Banner" /></a>
+<a href="https://www.automathing.ca/" target="blank"><img align="center" src="github-banner.png" alt="Orléando Dassi's Banner" /></a>
 
 ### Hi there 👋
 I'm an entrepreneur and Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
 ### What I do?
-Software Development | Platform Integration | Process Automation : https://www.automathing.ca
+Structure, launch, and evolve your tech products with clarity. We help businesses save time, reduce costs, and scale.
+
+Business First | Product Driven | Software | AI : https://www.automathing.ca
 
 ## Products
 Our first SaaS product is live, **Simplify Data Accessibility for Everyone** : https://www.transformz.ca
