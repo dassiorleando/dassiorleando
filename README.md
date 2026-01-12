@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [As-tu une équipe derrière Automathing?](https://www.youtube.com/shorts/VujUwHjLb1k)
 - [Cette année je stoppe la sur-production de contenu](https://www.youtube.com/shorts/09wHakwd3cI)
 - [Bonne année 2026 🚀](https://www.youtube.com/shorts/pww1WEDkp00)
 - [Entreprendre : bénéfices élevés mais c’est risqué !](https://www.youtube.com/shorts/uLGuFFoJvLg)
 - [Le vrai problème des entrepreneurs tech, ce n’est pas la motivation, mais la vente !](https://www.youtube.com/shorts/oT7ZMHbH9fM)
-- [J’ai démissionné de mon emploi à haut salaire pour créer une entreprise avec 0 clients de départ](https://www.youtube.com/shorts/lNipUyWSUnI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
