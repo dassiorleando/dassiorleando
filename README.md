@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tu veux créer un SaaS ? Ne lance surtout pas une marketplace de services.](https://www.youtube.com/shorts/KLCz7FhDK6s)
 - [Voici pourquoi tu ne devrais PAS créer de logiciel : maintenance, projection, innovation ❌](https://www.youtube.com/shorts/MEmDzf4gpFs)
 - [As-tu une équipe derrière Automathing?](https://www.youtube.com/shorts/VujUwHjLb1k)
 - [Cette année je stoppe la sur-production de contenu](https://www.youtube.com/shorts/09wHakwd3cI)
 - [Bonne année 2026 🚀](https://www.youtube.com/shorts/pww1WEDkp00)
-- [Entreprendre : bénéfices élevés mais c’est risqué !](https://www.youtube.com/shorts/uLGuFFoJvLg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
