@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Faire de l&#39;IA sans LLM &lpar;ChatGPT, Claude&rpar; c&#39;est la clé](https://www.youtube.com/shorts/YmFbkYxtVM4)
 - [Le corps s’adapte à ce que tu lui demandes : constance et discipline](https://www.youtube.com/shorts/mkmtMcVtsxI)
 - [Leadership sans controle dans la tech!](https://www.youtube.com/shorts/9lt0TiVfTBs)
 - [Tension entre liberté et responsabilité en entrepreneuriat!](https://www.youtube.com/shorts/CduS6NPMWfE)
 - [Un nouveau client corporate vient de faire confiance à TransformZ](https://www.youtube.com/shorts/hJwvpSY2-dA)
-- [Les codes à respecter pour les entreprises technologiques !](https://www.youtube.com/shorts/3-29iGZ0OeA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
