@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [J’ai parlé d’automatisation logicielle au TechnoDrinks à Sherbrooke hier le 18 Fevrier 2026](https://www.youtube.com/shorts/HwqLsmUsIBs)
 - [Nous rendrons TowerZ public bientôt : l’excellent opérationnelle avec simplicité !](https://www.youtube.com/shorts/hDc7mnXXUu0)
 - [Faire de l&#39;IA sans LLM &lpar;ChatGPT, Claude&rpar; c&#39;est la clé](https://www.youtube.com/shorts/YmFbkYxtVM4)
 - [Le corps s’adapte à ce que tu lui demandes : constance et discipline](https://www.youtube.com/shorts/mkmtMcVtsxI)
 - [Leadership sans controle dans la tech!](https://www.youtube.com/shorts/9lt0TiVfTBs)
-- [Tension entre liberté et responsabilité en entrepreneuriat!](https://www.youtube.com/shorts/CduS6NPMWfE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
