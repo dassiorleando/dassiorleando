@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Comment l&#39;IA a transformé les demandes clients](https://www.youtube.com/shorts/Tg1yvfidFa8)
 - [TowerZ : Un business ne se pilote pas à l’intuition!](https://www.youtube.com/watch?v=hL20wh5XhLE)
 - [L’IA peut te faire perdre plus d’argent qu’elle ne t’en fait gagner](https://www.youtube.com/shorts/gDRjx13HgCA)
 - [Ce que le désordre coûte réellement à un professionnel !](https://www.youtube.com/shorts/S7BMCMdXMY8)
 - [Ce que personne ne dit sur le vibe coding!](https://www.youtube.com/shorts/ZMaX-sBYPk4)
-- [Le problème des services professionnels c’est la fragmentation des outils](https://www.youtube.com/shorts/t1haj5bvHSI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
