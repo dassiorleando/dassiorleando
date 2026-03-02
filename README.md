@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [On s&#39;est incorporés. Et là, la réalité nous a rattrapés!](https://www.youtube.com/shorts/2VOlBfBQ4Tk)
 - [The Agentic Business OS for Service Professionals](https://www.youtube.com/shorts/UO7xo_kSLZg)
 - [Les licenciements massifs dans la tech ne sont pas un accident](https://www.youtube.com/shorts/Y8hdwbIXvbo)
 - [Comment l&#39;IA a transformé les demandes clients](https://www.youtube.com/shorts/Tg1yvfidFa8)
 - [TowerZ : Un business ne se pilote pas à l’intuition!](https://www.youtube.com/watch?v=hL20wh5XhLE)
-- [L’IA peut te faire perdre plus d’argent qu’elle ne t’en fait gagner](https://www.youtube.com/shorts/gDRjx13HgCA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
