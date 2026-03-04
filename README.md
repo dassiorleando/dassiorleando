@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [TowerZ est online 🎉](https://www.youtube.com/shorts/yAyi0xRQ0NE)
+- [TowerZ is onine 🎉](https://www.youtube.com/shorts/yAyi0xRQ0NE)
 - [Structurer son entreprise sans se perdre avec TowerZ](https://www.youtube.com/shorts/gJMm3ZVZQIc)
 - [On s&#39;est incorporés. Et là, la réalité nous a rattrapés!](https://www.youtube.com/shorts/2VOlBfBQ4Tk)
 - [The Agentic Business OS for Service Professionals](https://www.youtube.com/shorts/UO7xo_kSLZg)
