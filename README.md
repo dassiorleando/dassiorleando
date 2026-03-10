@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I’ve loved using Calcom but it’s time to run my bookings on @TowerzPro](https://www.youtube.com/watch?v=Ex-wMNOw3Lg)
 - [Pourquoi est-il si difficile de trouver un job en tech ?](https://www.youtube.com/shorts/437ZsDnh2Z4)
 - [Après le lancement de @TowerzPro : active ta version d&#39;essaie de 20 jours!](https://www.youtube.com/shorts/aqh353xz3rU)
 - [Travailles tu le Dimanche? Quels sont tes jours de repos?](https://www.youtube.com/shorts/ygvgCBu7H9E)
 - [@TowerzPro went live yesterday 🎉](https://www.youtube.com/shorts/yyW7uSyHAl0)
-- [TowerZ is onine 🎉](https://www.youtube.com/shorts/yAyi0xRQ0NE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
