@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tes compétences ne suffiront jamais pour entreprendre!](https://www.youtube.com/shorts/4W7aaEkvT8Y)
 - [Que s&#39;est-il passé après le lancement de @TowerzPro?](https://www.youtube.com/shorts/gXXPWkvVYjI)
 - [AI-Native Business Operations](https://www.youtube.com/shorts/gKwF_Dcj1AI)
 - [La stratégie n’est pas optionnelle et l’IA peut t’aider à la mettre en place efficacement : TowerZ](https://www.youtube.com/shorts/XysTgs5fesE)
 - [Entreprendre : 80 % des résultats avec 20 % d’efforts… mais surtout 100 % de clarté](https://www.youtube.com/shorts/S0zzK9XCphw)
-- [Une autre démo de TowerZ réalisée ✅](https://www.youtube.com/shorts/i4oH8MFhHi8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
