@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pourquoi les logiciels deviennent obsolètes &lpar;même quand ils étaient bons&rpar; ?](https://www.youtube.com/shorts/8U4Zq2WGNsc)
+- [Pourquoi les logiciels deviennent obsolètes &lpar;même quand ils étaient bons&rpar; ?](https://www.youtube.com/watch?v=mI4QnoVfvz0)
 - [Es-tu aussi drive par l’impact ?](https://www.youtube.com/shorts/hNiE9Q0ppgk)
 - [Tout le monde ne doit pas implémenter l’IA](https://www.youtube.com/shorts/64aSHXP2hvk)
 - [On vous vend des logiciels à des milliers de dollars dont vous n’avez probablement pas besoin!](https://www.youtube.com/shorts/SVSSjAMTEo0)
-- [Tes compétences ne suffiront jamais pour entreprendre!](https://www.youtube.com/shorts/4W7aaEkvT8Y)
-- [Que s&#39;est-il passé après le lancement de @TowerzPro?](https://www.youtube.com/shorts/gXXPWkvVYjI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
