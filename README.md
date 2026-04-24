@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Structurer son business = utiliser plus d’outils ❌](https://www.youtube.com/shorts/N2TeXWK0A2w)
 - [La pire façon de commencer un projet : logo et nom de domaine.](https://www.youtube.com/shorts/rJqpQGRGpAM)
 - [Pour les entreprises tech, leurs applications sont des actifs stratégiques !](https://www.youtube.com/shorts/IWO2ta9IPQ4)
 - [Voici pourquoi ton projet va échouer : entreprendre c’est créer de la valeur !](https://www.youtube.com/shorts/dOMu7XMdi4Q)
 - [La productivité ne paie pas les factures](https://www.youtube.com/shorts/3FqtLLG5t_s)
-- [C’est juste un AI wrapper !](https://www.youtube.com/shorts/cx_yMpLtUDM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
