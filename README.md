@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Structurer un business : les pilliers de TowerZ?](https://www.youtube.com/watch?v=CJx7lEutnvY)
 - [Ton logiciel ne devient pas obsolète, tu le laisses le devenir !](https://www.youtube.com/shorts/mUCbA2qt070)
 - [Juste un mot aujourd’hui : merci](https://www.youtube.com/shorts/jEhSacL7MdE)
 - [Ton gros logiciel complexe est inutile!](https://www.youtube.com/shorts/78rp_rgs_zo)
 - [Structurer son business = utiliser plus d’outils ❌](https://www.youtube.com/shorts/N2TeXWK0A2w)
-- [La pire façon de commencer un projet : logo et nom de domaine.](https://www.youtube.com/shorts/rJqpQGRGpAM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
