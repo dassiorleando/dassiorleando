@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [IA : vous payez un beau site déconnecté de votre réalité](https://www.youtube.com/shorts/eMBkgraNgT0)
 - [Certaines évolutions ne se voient pas à court terme](https://www.youtube.com/shorts/2c4lnFeoiAk)
 - [Arrête de chercher “l’idée parfaite”](https://www.youtube.com/shorts/fNhe2J_VqXc)
 - [Utiliser l&#39;IA comme outil ou pilote automatique?](https://www.youtube.com/shorts/FfjPSSVpuvg)
 - [WeChalet vs Paypal : gel de liquidités et faillite ? #quebec](https://www.youtube.com/shorts/_gLggn-U3qE)
-- [Coding : l’IA t’assiste ou elle te domine ?](https://www.youtube.com/shorts/WKmlKLkRxxg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
