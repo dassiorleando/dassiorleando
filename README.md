@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [On lance un club pour ceux qui veulent alier business et technologie](https://www.youtube.com/shorts/y2ImDo_Ynu0)
 - [We&#39;ve just delivered ProfilX, a custom operations platform for DJ Revêtement](https://www.youtube.com/shorts/cNapunDDQVA)
 - [On vient de livrer ProfilX, une plateforme sur mesure pour DJ Revêtement](https://www.youtube.com/shorts/oSZLqlt0tCw)
 - [On lance une communauté business et tech : envoi moi un message](https://www.youtube.com/shorts/r0hZiWtPgRY)
 - [Votre idée n’a pas besoin d’être révolutionnaire](https://www.youtube.com/shorts/36jNjMnNzEA)
-- [Ta posture dans le meeting lorsque le client est enfin content. Es-tu mon prochain client?](https://www.youtube.com/shorts/VoJrHgoQ8uE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
