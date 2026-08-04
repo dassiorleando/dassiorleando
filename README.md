@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Arrêtez d&#39;automatiser les mauvaises choses](https://www.youtube.com/shorts/kfbyRBciPZ4)
 - [Bizenda : évènements d’affaires au Québec](https://www.youtube.com/shorts/0dPbv5MFchk)
 - [Votre entreprise est-elle vraiment prête pour l’intelligence artificielle?](https://www.youtube.com/watch?v=vz3MAqyiGcg)
 - [Premier jour au bureau : setup](https://www.youtube.com/shorts/_eRtzSbtdcw)
 - [Trouver les bons évènements d&#39;affaires au Québec, c&#39;est parfois compliqué](https://www.youtube.com/shorts/AzLqCeHrgIA)
-- [Pourquoi les ressources limitées tuent les meilleurs projets](https://www.youtube.com/watch?v=DS3wMSNjGYs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
