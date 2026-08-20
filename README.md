@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [L’IA facilite la création d’applications. Pas leur succès.](https://www.youtube.com/shorts/VGrWFyvxMaQ)
+- [L’IA facilite la création d’applications. Pas leur succès.](https://www.youtube.com/watch?v=06tfMYLVKsQ)
 - [Votre entreprise est-elle prête pour l’intelligence artificielle ?](https://www.youtube.com/shorts/E6nDtpKlqt8)
 - [Garde ta stratégie business](https://www.youtube.com/shorts/_64mLwHb3gI)
 - [Tous les entrepreneurs n’auront pas de mentor](https://www.youtube.com/shorts/acnbNI8Lg6E)
-- [Québec : 400 nouveaux événements d’affaires sur Bizenda](https://www.youtube.com/shorts/iVQjm6vTeBk)
-- [Ne changez pas de stratégie trop vite](https://www.youtube.com/watch?v=gpNCX3khrbY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
