@@ -4,17 +4,14 @@
 I'm an entrepreneur and Solutions Architect who is constantly learning to better himself while impacting the community by producing technical articles and videos, what describes me the most is my flexibility.
 
 ### What I do?
-Structure, launch, and evolve your tech products with clarity. We help businesses save time, reduce costs, and scale.
+Structure, launch, and evolve your tech products with clarity. We help businesses save time by aligning business and technology seamlessly.
 
-Business First | Product Driven | Software | AI : https://www.automathing.ca
+Business First | Software | AI | Cloud : https://www.automathing.ca
 
 ## Products
-Our first SaaS product is live, **Simplify Data Accessibility for Everyone** : https://www.transformz.ca
+Our flagship product is live, **Structure, Build, and Run Your Business Intelligently** : https://www.towerz.ca
 
-[TransformZ](https://www.transformz.ca) empowers you to ask questions to your data with **AI**, open it in **Excel**, or share it via **auto-generated APIs**; zero coding needed.
-
-<a href="https://www.transformz.ca/" target="blank"><img align="center" src="TransformZ-Banner.png" alt="TransformZ: Simplify Data Accessibility for Everyone" /></a>
-
+[TowerZ](https://www.towerz.ca) is an intelligent platform that understands your business, clarifies priorities, and turns the right signals into action by connecting analysis, planning, and operations.
 
 ### ⭐ Topics Of Interest
 ➡️ Digital Transformation <br/>
@@ -25,6 +22,7 @@ Our first SaaS product is live, **Simplify Data Accessibility for Everyone** : h
 ➡️ Automation <br/>
 ➡️ CRM / ERP <br/>
 ➡️ Cloud <br/>
+➡️ AI <br/>
 
 <!--
 **dassiorleando/dassiorleando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,16 +64,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-**More tech content is available on [My Website](https://dassiorleando.com/blog/) and on [NumericaIdeas's Tech Blog](https://numericaideas.com/blog).**
-
-### 🔥 My Recent Thoughts
-<!-- MY-THOUGHTS-LIST:START -->
-- [English for Tech Content Creators](https://thoughts.dassiorleando.xyz/english-tech-content-creators/)
-- [Succeed in Tech](https://thoughts.dassiorleando.xyz/succeed-in-tech/)
-- [Document Your Work Processes](https://thoughts.dassiorleando.xyz/document-your-work-processes/)
-<!-- MY-THOUGHTS-LIST:END -->
-
-Read more about my **tech and non-tech** thoughts at [thoughts.dassiorleando.xyz](https://thoughts.dassiorleando.xyz) and subscribe to the newsletter to be kept posted ✅
+**More tech content is available on [My Website](https://dassiorleando.com/blog/) and on [Automathing's Blog](https://www.automathing.ca/blog).**
 
 ### 👥 Connect with me
 Feel free to follow me on: <br/>
