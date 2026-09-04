@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [12,7 % : le chiffre qui cache le vrai problème de l&#39;IA au Québec](https://www.youtube.com/watch?v=49vWnzxXtso)
 - [SaaS vs Sur-mesure : le choix stratégique #tech #business #developpement](https://www.youtube.com/shorts/fTRWnpIBPEw)
 - [Ta démo IA est inutile en production!](https://www.youtube.com/watch?v=l7oI5ho2_Ec)
 - [Six raisons de construire un logiciel sur mesure au lieu du SaaS](https://www.youtube.com/watch?v=ErogS9haBHw)
 - [L’IA facilite la création d’applications. Pas leur succès.](https://www.youtube.com/shorts/VGrWFyvxMaQ)
-- [L’IA facilite la création d’applications. Pas leur succès.](https://www.youtube.com/watch?v=06tfMYLVKsQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
