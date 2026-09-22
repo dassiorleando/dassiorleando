@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Les entreprises canadiennes ignorent l&#39;IA](https://www.youtube.com/shorts/jxgTn2AmRxA)
 - [Ta démo IA est inutile en production!](https://www.youtube.com/shorts/GG2tgv4wDyY)
 - [Pourquoi 90 % des implantations logicielles échouent!](https://www.youtube.com/shorts/usuunduIyIk)
 - [Le Canada a inventé l’IA puis l’a laissée partir](https://www.youtube.com/watch?v=chu4YNhQDeg)
 - [Pourquoi 90 % des implantations logicielles échouent](https://www.youtube.com/watch?v=M2xg1a_sK3k)
-- [Automathing® est désormais une marque de commerce officiellement enregistrée.](https://www.youtube.com/shorts/K2dJRMN0OkE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
