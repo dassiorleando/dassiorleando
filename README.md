@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Nouveau podcast: technologies et intelligence artificielle](https://www.youtube.com/shorts/Kd-iez_-n3I)
 - [Explore the Automathing AI &amp; Automation Delivery Framework](https://www.youtube.com/shorts/fagmLp8Ns0Y)
 - [Découvrir le cadre IA et automatisation d&#39;Automathing](https://www.youtube.com/shorts/iRggE2-bVBE)
 - [Les entreprises canadiennes ignorent l&#39;IA](https://www.youtube.com/shorts/jxgTn2AmRxA)
 - [Ta démo IA est inutile en production!](https://www.youtube.com/shorts/GG2tgv4wDyY)
-- [Pourquoi 90 % des implantations logicielles échouent!](https://www.youtube.com/shorts/usuunduIyIk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
