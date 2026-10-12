@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Même IA, résultats différents : l’expertise fait la différence](https://www.youtube.com/shorts/e6hKMqTFjXk)
 - [Mieux décider avec l’IA | Mon Métier avec l’IA | Ép. 2](https://www.youtube.com/watch?v=PLbqyhhZkUE)
 - [ChatGPT suffit-il pour faire de l’IA en entreprise ? SaxX répond - MTLConnecte 2025](https://www.youtube.com/watch?v=DJva2S819j0)
 - [Le leadership, ce n’est pas tout savoir](https://www.youtube.com/shorts/skheHY1eZ60)
 - [Pourquoi faire un MBA quand on a construit sa carrière dans la technologie ?](https://www.youtube.com/shorts/EwlqTJywrZ0)
-- [L’IA transforme son métier de Fractional CTO et organise sa vie | Mon Métier avec l’IA | Ép. 1](https://www.youtube.com/watch?v=dc7KR0mb2ck)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
