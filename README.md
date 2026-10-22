@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Que devient le SEO avec l’IA et les agents IA ? | Mon Métier avec l’IA | Ép. 3](https://www.youtube.com/watch?v=V5iwcg5u8B4)
 - [L’IA raccourcit le chemin entre ton idée et sa réalisation](https://www.youtube.com/shorts/-dmvEKA3Hnk)
 - [Plus l’IA progresse, plus ton jugement compte](https://www.youtube.com/shorts/Plg83IC4gFA)
 - [Le Canada forme les talents de l’IA. Qui en profite vraiment ?](https://www.youtube.com/shorts/aBWYWxomaGk)
 - [Ma première chronique est en ligne dans le Journal de Sherbrooke](https://www.youtube.com/shorts/SinxjR33dHM)
-- [Ses agents IA font des recherches pendant qu’il est au gym](https://www.youtube.com/shorts/sIny8_-q_2A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
