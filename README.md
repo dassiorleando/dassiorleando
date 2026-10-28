@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [L’IA en entreprise : commence par le besoin, pas par l’outil](https://www.youtube.com/shorts/jquevi_ff4s)
 - [Je rejoins Deloitte en tant que directeur.](https://www.youtube.com/shorts/6AZy2nMpLt0)
 - [Ton agent IA peut se tromper sans afficher d’erreur](https://www.youtube.com/shorts/G6Ldg7aegkQ)
 - [Le SEO est mort ? Le GEO a encore besoin de lui.](https://www.youtube.com/shorts/18L3_XgMvVU)
 - [Que devient le SEO avec l’IA et les agents IA ? | Mon Métier avec l’IA | Ép. 3](https://www.youtube.com/watch?v=V5iwcg5u8B4)
-- [L’IA raccourcit le chemin entre ton idée et sa réalisation](https://www.youtube.com/shorts/-dmvEKA3Hnk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
