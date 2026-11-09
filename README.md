@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Il utilise l’IA pour choisir son activité physique](https://www.youtube.com/shorts/59LMl1p1_NQ)
 - [Logiciel sur mesure : 6 signes que votre entreprise en a besoin](https://www.youtube.com/watch?v=qVndlf5LaZE)
 - [L’IA change le temps passé sur un audit SEO](https://www.youtube.com/shorts/B48bN-RmqXI)
 - [Tester une IA comme un logiciel classique ne suffit pas](https://www.youtube.com/shorts/zswV3u07pFM)
 - [Il suit sa vie avec des indicateurs, grâce à l’IA](https://www.youtube.com/shorts/57WNUvlzUQk)
-- [L’IA en entreprise : commence par le besoin, pas par l’outil](https://www.youtube.com/shorts/jquevi_ff4s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
