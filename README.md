@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## <a href="https://www.youtube.com/@dassiorleando"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" title="Orleando Dassi's YouTube Channel" alt="Orleando Dassi's YouTube Channel" width="30"/> </a>   Latest Videos
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [S’assumer neuroatypique au travail : le déclic de Joey](https://www.youtube.com/shorts/ZmXWPPaEmPk)
 - [IA au Québec : 9,4 % en 2024, 12,7 % en 2025](https://www.youtube.com/shorts/iIIU3k39Wxw)
 - [SEO : plus de trafic ne veut pas dire plus de clients](https://www.youtube.com/shorts/C61PBeAXmX4)
 - [Ton IA est en ligne. Mais fait-elle correctement son travail ?](https://www.youtube.com/shorts/se1ZQVynO1k)
 - [Il utilise l’IA pour choisir son activité physique](https://www.youtube.com/shorts/59LMl1p1_NQ)
-- [Logiciel sur mesure : 6 signes que votre entreprise en a besoin](https://www.youtube.com/watch?v=qVndlf5LaZE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 </td><td valign="top" width="50%">
